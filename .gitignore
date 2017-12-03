@@ -1,0 +1,3 @@
+data/*
+*.csv
+lda_model*
